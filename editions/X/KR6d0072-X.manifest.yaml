@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0072_000-X.yaml, hash: 'sha256:1aa9940cb64a103f341e1875f3fde1e7165f9e60aaf70afb0b7bca78596ec488'}
+  - {seq: 0, filename: KR6d0072_000-X.yaml, hash: 'sha256:a9bfdc92fa16ebbcf25b0336e8bd62f577284f39e955bf5606534325cc2b185f'}
   - {seq: 1, filename: KR6d0072_001-X.yaml, hash: 'sha256:4b71dd260a3471113dc50e342d1dfbc91d0cf7c16087dde49498d129545c58f1'}
   - {seq: 2, filename: KR6d0072_002-X.yaml, hash: 'sha256:3ddc6b3cd0c9db916beb0ba7d67cfa5418c6aef2a629d0cc9d70812233d0c344'}
   - {seq: 3, filename: KR6d0072_003-X.yaml, hash: 'sha256:52af050543664e8ab67b0f3b18aca610b8008b46e85881abf65b2c25031ee74a'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6d0072_007-X.yaml, hash: 'sha256:fc87f35422622bfffb804ff22c2f38b07a37adcddee836dc1a568af6044010ab'}
   - {seq: 8, filename: KR6d0072_008-X.yaml, hash: 'sha256:e17517f76e6fa2870db1a8983414cd0874ac0579178f15bf73c67a2ea1a67d3b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0072_000-X.markers.yaml, hash: 'sha256:d0a2754ed5f2e8dd0cb67742b84f4a489e27ee779dc7608938ac4d2f46c4993d'}
+  - {seq: 0, role: markers, filename: assets/KR6d0072_000-X.markers.yaml, hash: 'sha256:e3963ac6190dbdc777a4f790bfd8755236382d337197bb56606b93f85ef92c2a'}
   - {seq: 1, role: markers, filename: assets/KR6d0072_001-X.markers.yaml, hash: 'sha256:fb41ce8e6a84b6e2b84766aa1d2f7e5e13baff56b88c15c5dbe6ca56419bc0db'}
   - {seq: 2, role: markers, filename: assets/KR6d0072_002-X.markers.yaml, hash: 'sha256:e55d7ee3d4d9a69993f1fbc1ffe778901e2f84f8b1e51239d11013b7864ac78c'}
   - {seq: 3, role: markers, filename: assets/KR6d0072_003-X.markers.yaml, hash: 'sha256:49a84cbba1248b84c0e43d166251dcc4530c0bfdd012f91dbf7e6c4e1d115b91'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 606-A 重刻法華科註序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-2
     span:
-    - front
+    - body
     - 245
     - 245
   label: No. 606-B 依天台科釋註法華經序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-3
     span:
-    - front
+    - body
     - 750
     - 750
   label: 目次
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-4
     span:
-    - front
+    - body
     - 1030
     - 1030
   label: 天台智者大師觀心誦經法
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-5
     span:
-    - front
+    - body
     - 1672
     - 1672
   label: 先敘台宗釋經六意
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-6
     span:
-    - front
+    - body
     - 5148
     - 5148
   label: No. 606-C 法華三分總別之圖
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0072_X_000-mulu-7
     span:
-    - front
+    - body
     - 5156
     - 5156
   label: No. 606-D 弘傳序
@@ -479,4 +479,4 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:978003c9e36cb1debdf7407e4fdad4d11b5f14498ef53accb9059e9fd1ed7485
+hash: sha256:0826c7e8af68276be3bcec5e483f2fe70197a85b0da91f786c6363288908a400
